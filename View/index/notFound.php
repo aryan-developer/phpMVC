@@ -1,0 +1,5 @@
+<h1>
+    <?php
+    echo $data['data']['content'];
+    ?>
+</h1>

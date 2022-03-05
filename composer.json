@@ -1,0 +1,15 @@
+{
+    "name": "aryan/farhang-loghat",
+    "type": "project",
+    "license": "UNLICENSED",
+    "authors": [
+        {
+            "name": "Aryan",
+            "email": "rynshirvani@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*",
+        "ext-curl": "*"
+    }
+}
